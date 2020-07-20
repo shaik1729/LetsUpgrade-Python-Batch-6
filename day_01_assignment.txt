@@ -5,6 +5,11 @@ Created by Guido van Rossum and first released in 1991,
 Python's design philosophy emphasizes code readability with its notable use of significant whitespace. 
 It's easy to learn and simple to write the code.
 
+we can download python from https://www.python.org/
+after downloading we can execute the .exe file so that it will install on our PC. 
+(or) 
+simply we can install Anaconda it will install everything we need.
+
 
 2) What are the code Environments? Types?
 	
